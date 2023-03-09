@@ -1,1 +1,1 @@
-All scripts to print absolute pathnames and other things
+All scripts to print absolute pathnames and other things\n
